@@ -30,4 +30,10 @@ PomodoroWise is a productivity-focused web application designed to help students
 ---
 **Authentication**
 - JWT
+- 
+## 📸 Screenshots
+
+| Pomodoro Timer | Task List | Dashboard |
+|----------------|-----------|-----------|
+| ![home](screenshots/homepage.png) | ![login](screenshots/loginpage.png) | ![Dashboard](screenshots/dashboard.png) |![Task](screenshots/addtask.png)|![Timer](screenshots/todolist.png)
 
